@@ -541,3 +541,116 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.19-22.31.28:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Content/' took 0.01s
 [2020.10.19-22.31.28:782][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
 [2020.10.19-22.31.28:833][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: URL: C:\Users\JopJi\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.10.19-22.31.41:771][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:771][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.10.19-22.31.41:772][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:772][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.10.19-22.31.41:772][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:772][  0]LogWindows: Warning: URL: C:\Users\JopJi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.10.19-22.31.41:773][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:773][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.10.19-22.31.41:863][  0]Cmd: MAP LOAD FILE="C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-22.31.41:867][  0]LightingResults: New page: Lighting Build
+[2020.10.19-22.31.42:237][  0]MapCheck: New page: Map Check
+[2020.10.19-22.31.42:237][  0]LightingResults: New page: Lighting Build
+[2020.10.19-22.31.43:281][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.10.19-22.31.47:179][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.19-22.31.48:834][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-22.31.49:026][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.19-22.31.49:026][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-22.31.49:119][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.393ms to complete.
+[2020.10.19-22.31.49:119][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 7.323
+[2020.10.19-22.31.53:925][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.31.53:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.31.53:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.31.53:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.31.54:299][  0]LogCollectionManager: Loaded 0 collections in 0.000792 seconds
+[2020.10.19-22.31.54:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Saved/Collections/' took 0.01s
+[2020.10.19-22.31.54:996][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Content/Developers/JopJi/Collections/' took 0.01s
+[2020.10.19-22.31.54:996][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Content/Collections/' took 0.01s
+[2020.10.19-22.31.54:996][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.10.19-22.31.55:043][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2732 classes and 659 folders.
+[2020.10.19-22.31.55:219][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-22.31.55:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:531][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.57:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.59:150][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-22.31.59:610][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.19-22.32.08:662][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.10.19-22.32.08:991][  0]LogSlate: Took 0.026288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.19-22.32.09:066][  0]LogSlate: Took 0.035292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.19-22.32.09:182][  0]LogSlate: Took 0.039294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.19-22.32.10:388][  0]LogRenderer: Reallocating scene render targets to support 1120x608 Format 10 NumSamples 1 (Frame:1).
+[2020.10.19-22.32.12:121][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-22.32.12:121][  0]LogLoad: (Engine Initialization) Total time: 134.99 seconds
+[2020.10.19-22.32.12:121][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.19-22.32.13:002][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.19-22.32.13:210][  0]LogSlate: Took 0.030510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.19-22.32.13:552][  2]LogAssetRegistry: Asset discovery search completed in 107.9693 seconds
+[2020.10.19-22.32.13:570][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.19-22.32.13:570][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2020.10.19-22.32.18:456][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-22.32.18:521][270]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.19-22.32.18:527][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.19-22.32.18:551][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.19-22.32.18:653][270]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 19, 2020, 2:32:18 PM)
+[2020.10.19-22.32.18:732][270]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.19-22.32.18:746][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013194s)
+[2020.10.19-22.32.18:747][270]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.19-22.32.18:747][270]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2020.10.19-22.32.18:747][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014490s)
+[2020.10.19-22.32.18:776][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.10.19-22.32.19:153][270]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.19-22.32.19:179][270]LogInit: FAudioDevice initialized.
+[2020.10.19-22.32.19:191][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.32.21:274][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.19-22.32.21:343][270]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.19-18.32.21
+[2020.10.19-22.32.21:373][270]LogWorld: Bringing up level for play took: 0.030483
+[2020.10.19-22.32.21:856][270]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.10.19-22.32.22:346][270]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 3.634
+[2020.10.19-22.32.22:356][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.19-22.32.22:630][271]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.10.19-22.32.22:816][274]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	TPSCharacterAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPSCharacterAnim_C_0
+	Function /Game/ThirdPersonShooter/TPSCharacterAnim.TPSCharacterAnim_C:ExecuteUbergraph_TPSCharacterAnim:0251
+[2020.10.19-22.32.22:816][274]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	TPSCharacterAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPSCharacterAnim_C_0
+	Function /Game/ThirdPersonShooter/TPSCharacterAnim.TPSCharacterAnim_C:ExecuteUbergraph_TPSCharacterAnim:0283
+[2020.10.19-22.32.22:816][274]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	TPSCharacterAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPSCharacterAnim_C_0
+	Function /Game/ThirdPersonShooter/TPSCharacterAnim.TPSCharacterAnim_C:ExecuteUbergraph_TPSCharacterAnim:031C
+[2020.10.19-22.32.24:335][364]LogSlate: Window 'TPSProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.19-22.32.24:376][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.19-22.32.24:439][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.19-22.32.24:440][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.19-22.32.24:613][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.10.19-22.32.24:633][365]LogPlayLevel: Display: Destroying online subsystem :Context_2
