@@ -541,3 +541,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.19-22.31.28:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Content/' took 0.01s
 [2020.10.19-22.31.28:782][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
 [2020.10.19-22.31.28:833][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:770][  0]LogWindows: Warning: URL: C:\Users\JopJi\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.10.19-22.31.41:771][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:771][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.10.19-22.31.41:772][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:772][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.10.19-22.31.41:772][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:772][  0]LogWindows: Warning: URL: C:\Users\JopJi\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.10.19-22.31.41:773][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.19-22.31.41:773][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.10.19-22.31.41:863][  0]Cmd: MAP LOAD FILE="C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-22.31.41:867][  0]LightingResults: New page: Lighting Build
+[2020.10.19-22.31.42:237][  0]MapCheck: New page: Map Check
+[2020.10.19-22.31.42:237][  0]LightingResults: New page: Lighting Build
+[2020.10.19-22.31.43:281][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.10.19-22.31.47:179][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.19-22.31.48:834][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-22.31.49:026][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.19-22.31.49:026][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-22.31.49:119][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.393ms to complete.
+[2020.10.19-22.31.49:119][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 7.323
+[2020.10.19-22.31.53:925][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.31.53:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.31.53:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.31.53:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.31.54:299][  0]LogCollectionManager: Loaded 0 collections in 0.000792 seconds
+[2020.10.19-22.31.54:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Saved/Collections/' took 0.01s
+[2020.10.19-22.31.54:996][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Content/Developers/JopJi/Collections/' took 0.01s
+[2020.10.19-22.31.54:996][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JopJi/OneDrive/Desktop/GitHub/TPSProject/TPSProject/Content/Collections/' took 0.01s
+[2020.10.19-22.31.54:996][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.10.19-22.31.55:043][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2732 classes and 659 folders.
+[2020.10.19-22.31.55:219][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-22.31.55:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.55:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:531][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.56:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.57:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-22.31.59:150][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-22.31.59:610][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
