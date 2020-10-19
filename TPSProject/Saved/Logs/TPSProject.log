@@ -739,3 +739,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.19-22.32.10:373][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2020.10.19-22.32.10:417][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
 [2020.10.19-22.32.10:437][679]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.19-22.33.48:851][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.19-22.33.49:005][869]LogSlate: Window 'TPSProject - Unreal Editor' being destroyed
+[2020.10.19-22.33.49:023][869]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2020.10.19-22.33.49:607][870]Cmd: QUIT_EDITOR
+[2020.10.19-22.33.51:017][870]LogExit: Preparing to exit.
+[2020.10.19-22.33.52:693][870]LogExit: Editor shut down
+[2020.10.19-22.33.52:693][870]LogExit: Transaction tracking system shut down
+[2020.10.19-22.33.54:790][870]LogExit: Object subsystem successfully closed.
+[2020.10.19-22.33.55:018][870]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.19-22.33.55:046][870]LogD3D11RHI: Shutdown
+[2020.10.19-22.33.55:046][870]LogD3D11RHI: CleanupD3DDevice
+[2020.10.19-22.33.55:059][870]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.19-22.33.55:059][870]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.19-22.33.55:081][870]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.19-22.33.55:081][870]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.19-22.33.55:081][870]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.19-22.33.55:081][870]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.19-22.33.55:191][870]LogD3D11RHI: ~FD3D11DynamicRHI
