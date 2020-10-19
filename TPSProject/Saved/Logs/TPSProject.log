@@ -605,3 +605,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.19-22.31.57:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 [2020.10.19-22.31.59:150][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
 [2020.10.19-22.31.59:610][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.19-22.32.08:662][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.10.19-22.32.08:991][  0]LogSlate: Took 0.026288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.19-22.32.09:066][  0]LogSlate: Took 0.035292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.19-22.32.09:182][  0]LogSlate: Took 0.039294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.19-22.32.10:388][  0]LogRenderer: Reallocating scene render targets to support 1120x608 Format 10 NumSamples 1 (Frame:1).
+[2020.10.19-22.32.12:121][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-22.32.12:121][  0]LogLoad: (Engine Initialization) Total time: 134.99 seconds
+[2020.10.19-22.32.12:121][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.19-22.32.13:002][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.19-22.32.13:210][  0]LogSlate: Took 0.030510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.19-22.32.13:552][  2]LogAssetRegistry: Asset discovery search completed in 107.9693 seconds
+[2020.10.19-22.32.13:570][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.19-22.32.13:570][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2020.10.19-22.32.18:456][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-22.32.18:521][270]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.19-22.32.18:527][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.19-22.32.18:551][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.19-22.32.18:653][270]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 19, 2020, 2:32:18 PM)
+[2020.10.19-22.32.18:732][270]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.19-22.32.18:746][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013194s)
+[2020.10.19-22.32.18:747][270]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.19-22.32.18:747][270]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2020.10.19-22.32.18:747][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014490s)
+[2020.10.19-22.32.18:776][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.10.19-22.32.19:153][270]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.19-22.32.19:179][270]LogInit: FAudioDevice initialized.
+[2020.10.19-22.32.19:191][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-22.32.21:274][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.19-22.32.21:343][270]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.19-18.32.21
+[2020.10.19-22.32.21:373][270]LogWorld: Bringing up level for play took: 0.030483
+[2020.10.19-22.32.21:856][270]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.10.19-22.32.22:346][270]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 3.634
+[2020.10.19-22.32.22:356][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.19-22.32.22:630][271]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.10.19-22.32.22:816][274]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	TPSCharacterAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPSCharacterAnim_C_0
+	Function /Game/ThirdPersonShooter/TPSCharacterAnim.TPSCharacterAnim_C:ExecuteUbergraph_TPSCharacterAnim:0251
+[2020.10.19-22.32.22:816][274]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	TPSCharacterAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPSCharacterAnim_C_0
+	Function /Game/ThirdPersonShooter/TPSCharacterAnim.TPSCharacterAnim_C:ExecuteUbergraph_TPSCharacterAnim:0283
+[2020.10.19-22.32.22:816][274]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	TPSCharacterAnim_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPSCharacterAnim_C_0
+	Function /Game/ThirdPersonShooter/TPSCharacterAnim.TPSCharacterAnim_C:ExecuteUbergraph_TPSCharacterAnim:031C
+[2020.10.19-22.32.24:335][364]LogSlate: Window 'TPSProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.19-22.32.24:376][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.19-22.32.24:439][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.19-22.32.24:440][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.19-22.32.24:613][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.10.19-22.32.24:633][365]LogPlayLevel: Display: Destroying online subsystem :Context_2
