@@ -694,6 +694,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.18-21.56.47:126][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2020.10.18-21.56.47:185][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
 [2020.10.18-21.56.47:209][433]LogPlayLevel: Display: Destroying online subsystem :Context_6
+<<<<<<< HEAD
 [2020.10.18-22.03.59:142][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
 [2020.10.18-22.03.59:776][755]LogSlate: Window 'TPSProject - Unreal Editor' being destroyed
 [2020.10.18-22.04.01:453][756]Cmd: QUIT_EDITOR
@@ -1037,3 +1038,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.18-22.04.20:903][756]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2020.10.18-22.04.21:312][756]LogExit: Exiting.
 [2020.10.18-22.04.21:411][756]Log file closed, 10/18/20 18:04:21
+=======
+>>>>>>> master
